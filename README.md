@@ -1,4 +1,6 @@
 # ElevenLabs-Discord-TTS-Bot
+YOU NEED A PREMIUM ELEVEN LABS ACCOUNT FOR THIS BOT TO WORK!
+
 This bot will allow you to hook it up to your eleven labs account via an API key. 
 
 This bot was made with a lot of help from chatgpt. I'm not a great programmer so I needed some help.
